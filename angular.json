@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "jodit-angular": {
+    "jodit-angular-fork": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -113,5 +113,5 @@
       }
     }
   },
-  "defaultProject": "jodit-angular"
+  "defaultProject": "jodit-angular-fork"
 }
